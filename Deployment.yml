@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: python
-        image: py_crash_img
+        image: gadi110319/py_crash_img
         ports:
         - containerPort: 5000
